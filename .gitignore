@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+
+# Large videos
+videos/*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
