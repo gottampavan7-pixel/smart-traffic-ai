@@ -149,7 +149,8 @@ python main.py
 
 ## 📸 Demo
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22279fd8-90fa-4b4d-8ccc-d29a1e9d11ac" />
+
 
 ---
 
